@@ -1,0 +1,40 @@
+
+/* Open Sana */
+@font-face {
+    font-family: playfair;
+    src: url(/fonts/playFair/PlayfairDisplay-Regular.ttf);
+}
+
+/* Ubuntu */
+@font-face {
+    font-family: ubuntu;
+    src: url(/fonts/Ubuntu/Ubuntu-Light.ttf);
+}
+
+/* Inconsalata */
+@font-face {
+    font-family: inconsolata;
+    src: url(/fonts/Inconsolata/Inconsolata-Regular.ttf);
+}
+
+/* eurofurence regular */
+@font-face {
+    font-family: eurofurence;
+    src: url(/fonts/eurof55.ttf);
+}
+
+@font-face {
+    font-family: lato-Bold;
+    src: url(/fonts/Lato-Bold.ttf);
+}
+
+@font-face {
+    font-family: lato-Regular;
+    src: url(/fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family: lato-Thin;
+    src: url(/fonts/Lato-Thin.ttf);
+}
+
