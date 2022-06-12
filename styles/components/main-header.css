@@ -1,22 +1,22 @@
 .main-header {
-    min-height: 129px;
+    width: 100%;
+    min-height: 8.125rem;
     background-color: #292929;
     color: #FFFFFF;
-    margin-bottom: 80px;
+    margin-bottom: 4.375rem;
     font-family: lato-Regular;
 }
 
-.main-header .journal {
+.main-header .active {
     color: #58C93A;
 }
 
 .main-header .main-logo {
     font-family: eurofurence;
-    font-size: 1.875rem;
-    color: var(--clr2);
-    letter-spacing: 0.2em;
+    font-size: 2.5rem;
+    letter-spacing: 0.03em;
     color: #FFFFFF;
-    margin-left: 100px;
+    margin-left: 16.25rem;
 }
 
 .main-header .main-logo span{
@@ -24,11 +24,8 @@
 }
 
 .main-nav{
-    margin-inline-end: 100px;
-}
-
-.main-header .main-nav > *:not(:last-child) {
-    margin-inline-end: 100px;
+    margin-inline-end: 16.25rem;
+    max-width: 1060px;
 }
 
 .main-header .main-nav a {
@@ -37,6 +34,6 @@
 }
 
 .main-header .main-nav a:hover {
-   color: var(--clr2);
+   color: #58C93A;
 }
 

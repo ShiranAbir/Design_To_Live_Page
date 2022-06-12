@@ -1,0 +1,70 @@
+footer {
+    line-height: 5rem;
+}
+
+footer p {
+    font-family: lato-Regular;
+    color: #A6A6A6;
+    font-size: 0.8125em;
+    margin-bottom: 0;
+}
+
+footer h2{
+    font-family: eurofurence;
+    font-size: 2.5rem;
+    color: #292929;
+    padding-top: 3.75rem;
+    padding-bottom: 1.5rem;
+    margin-bottom: 0;
+}
+
+footer h2 span{
+    color: #58C93A;
+}
+
+.copyright{
+    font-family: lato-Regular;
+    color: #A6A6A6;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+footer p span {
+    color: #58C93A;
+}
+
+.social-links{
+    margin-bottom: 5rem;
+}
+
+.social-links a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    color: white;
+    background-color: #E5E5E5;
+}
+
+.social-links>*:not(:last-child) {
+    margin-inline-end: 1.25rem;
+}
+
+
+/* social links colors */
+.social-links #fb:hover {
+    background-color: #516FAD;
+}
+
+.social-links #twitter:hover {
+    background-color: #2B99E7;
+}
+
+.social-links #be:hover {
+    background-color: #0053F2;
+}
+
+.social-links #basketball:hover {
+    background-color: #E46705;
+}

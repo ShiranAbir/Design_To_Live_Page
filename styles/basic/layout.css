@@ -1,10 +1,7 @@
 .main-layout {
-    max-width: 1060px;
+    max-width: 980px;
     margin: 0 auto;
-    margin-left: 17.3%;
-    margin-right: 17.3%;
     box-sizing: content-box;
-    border: 1px solid #E1E0E0;
 }
 
 .card-layout {
@@ -12,9 +9,6 @@
     flex-wrap: wrap;
 }
 
-.card-layout > * {
-    margin-bottom: 48px;
-}
 
 .paging{
     display: block;
